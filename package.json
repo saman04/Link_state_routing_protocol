@@ -1,0 +1,17 @@
+{
+  "name": "asg-lsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lsp.js",
+  "scripts": {
+    "build": "echo 'Build sucessfully completed!'",
+    "start": "node lsp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "readline-sync": "^1.4.9",
+    "uuidv4": "^2.0.0"
+  }
+}
